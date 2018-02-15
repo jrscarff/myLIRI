@@ -80,7 +80,7 @@ Check the package.json file for the required dependencies for the application to
 
 ## Authors
 
-* **Ryan Scarff** - *Initial work* - [PurpleBooth](https://github.com/jrscarff/myLIRI)
+* **Ryan Scarff** - *Initial work* - [myLIRI](https://github.com/jrscarff/myLIRI)
 
 ## License
 
